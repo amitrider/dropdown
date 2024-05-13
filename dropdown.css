@@ -28,6 +28,7 @@ body{
     background-image: linear-gradient(to right bottom, red, green);
     height: 100vh;
 }
+
 nav{
 background-color: bisque;
 }
